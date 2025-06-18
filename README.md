@@ -58,5 +58,5 @@ The project uses the following files:
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/yourusername/markowitz-portfolio-optimization.git
-   cd markowitz-portfolio-optimization
+   git clone https://github.com/saahiliitm250604/Markowitz_portfolioOpt.git
+   cd Markowitz_portfolioOpt
